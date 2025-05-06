@@ -91,7 +91,7 @@ install.packages(c("haven", "dplyr", "tidyr", "stringr", "igraph",
 
 -Random seeds are defined for clustering and Hopkins computations
 
-### Citation / Attribution
+
 
 If using this code or methodology, please cite the corresponding thesis or contact the author.
 
