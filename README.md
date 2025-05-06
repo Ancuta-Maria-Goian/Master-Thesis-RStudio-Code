@@ -4,7 +4,7 @@
 
 *Solution Patterns in a Problem-Solving Task: Consistency Across Educational Systems*
 
-This repository contains R code used for the log-file based analysis of student problem-solving behavior in the context of a digital assessment task (CP007Q02 from the CBA environment). The script performs data cleaning, transformation, feature extraction, and clustering for three countries: Colombia (COL), Norway (NOR), and Singapore (SGP).
+This repository contains R code (RStudio v. 4.4.3)used for the log-file based analysis of student problem-solving behavior in the context of a digital assessment task (CP007Q02 from the CBA environment). The script performs data cleaning, transformation, feature extraction, and clustering for three countries: Colombia (COL), Norway (NOR), and Singapore (SGP).
 
 ### Project Summary
 
