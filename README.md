@@ -11,7 +11,7 @@ This repository contains R code used for the log-file based analysis of student 
 This work supports a thesis project aiming to understand how students solve a traffic network task by analyzing log file interactions. Students' actions are translated into network features, which are then used to investigate behavioral patterns and performance groups using Gaussian Mixture Models (GMMs).
 
 ### Data Sources
-
+https://www.oecd.org/en/data/datasets/pisa-2012-database.html
 A specified working directory is needed for the following datasets that were first extracted with IBM SPSS Statistics (v. 30.0.0.0, 2024):
 
 -Log Data: `CBA_cp007q02_logs12_SPSS.sav`
